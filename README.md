@@ -1,2 +1,3 @@
-# site
-Website
+# Lightspeed website
+
+Insert content here... :)
